@@ -13,22 +13,22 @@
 ```
 # 示例结构
 - 数据结构
-	- AlbertZhang—95
-		- 作业
-		- 实验报告
-		- 大作业
-		- 课程设计
-		- README.md
-	- Contributer2-90
-		- 作业
-		- 实验报告
-		- 大作业
-		- 课程设计
-		- README.md
+  - AlbertZhang—95
+    - 作业
+	- 实验报告
+	- 大作业
+	- 课程设计
+	- README.md
+  - Contributer2-90
+	- 作业
+	- 实验报告
+	- 大作业
+	- 课程设计
+	- README.md
 - 课程项目
-	- 贪吃蛇游戏—C++课设—AlbertZhang—100
-		- 代码
-		- README.md
+  - 贪吃蛇游戏—C++课设—AlbertZhang—100
+	- 代码
+	- README.md
 ```
 
 ## 贡献🤝
@@ -42,5 +42,5 @@
 
 ❗文件夹请以下面的格式命名：**贡献者昵称**—**得分** 如 `AlbertZhang—100`
 
-❗我们提供一个专门的项目文件夹，如果你只是想分享项目，请在这个项目合集这个文件夹下添加内容，命名格式为**项目名称**—**技术栈**	—**贡献者昵称**—**得分** 如`贪吃蛇游戏—C++课设—AlbertZhang—100`
+❗我们提供一个专门的项目文件夹，如果你只是想分享项目，请在这个[项目合集](https://github.com/AZCodingAccount/ComputerScience_CourseProjects/tree/main/%E8%AF%BE%E7%A8%8B%E9%A1%B9%E7%9B%AE)这个文件夹下添加内容，命名格式为**项目名称**—**技术栈**	—**贡献者昵称**—**得分** 如`贪吃蛇游戏—C++课设—AlbertZhang—100`
 
