@@ -1,5 +1,3 @@
-# ComputerScience_CourseProjects
-
 ## 为什么❓
 
 ​		国内本科教育的老旧化不必我再过多赘述，以java技术栈为例，有的学校大三还在学`JQuery`、`JSP`、`Struts` ，常用的`Vue`、`React`、`SSM`、`Redis`、`springcloud`甚至老师都不了解，你以为有的老师原理能讲明白吗？一行设计模式代码8个报错。还有令无数同学都深恶痛绝的小组作业等。
